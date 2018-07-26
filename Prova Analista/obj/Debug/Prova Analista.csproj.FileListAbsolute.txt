@@ -1,0 +1,7 @@
+C:\Users\flavi\source\repos\Prova Analista\Prova Analista\bin\Debug\Prova Analista.exe.config
+C:\Users\flavi\source\repos\Prova Analista\Prova Analista\bin\Debug\Prova Analista.exe
+C:\Users\flavi\source\repos\Prova Analista\Prova Analista\bin\Debug\Prova Analista.pdb
+C:\Users\flavi\source\repos\Prova Analista\Prova Analista\obj\Debug\Prova Analista.csprojAssemblyReference.cache
+C:\Users\flavi\source\repos\Prova Analista\Prova Analista\obj\Debug\Prova Analista.csproj.CoreCompileInputs.cache
+C:\Users\flavi\source\repos\Prova Analista\Prova Analista\obj\Debug\Prova Analista.exe
+C:\Users\flavi\source\repos\Prova Analista\Prova Analista\obj\Debug\Prova Analista.pdb
